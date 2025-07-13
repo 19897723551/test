@@ -60,7 +60,7 @@ public class Main {
                 maxNum = Math.max(maxNum, i);
             }
         }
-        return maxNum;
+        return maxNum+1;
     }
 }
 
